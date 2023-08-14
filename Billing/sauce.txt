@@ -1,0 +1,4 @@
+Billing breakdown for sauce: 
+egg:                     ...$34 
+tip:                     ...$3 
+Total:                   ...$37.00 
